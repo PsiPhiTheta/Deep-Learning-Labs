@@ -16,3 +16,7 @@ This folder contains the implementation of Model-Agnostic Meta-Learning (MAML) u
 ### PA1 - Learning Distributed Word Representations (Neural Language Model)
 
 This folder contains the implementation of a Neural Language Model and the analysis of its output characteristics. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa1/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa1/Solutions.pdf).
+
+### PA2 - Convolutional Neural Networks
+
+This folder contains the implementation of a Convolutional Neural Network (CNN) for colourisation of horses in the CIFAR-10 dataset. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa2/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa2/Solutions.pdf).
