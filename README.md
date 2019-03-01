@@ -11,6 +11,10 @@ This folder contains the solutions to four problems relating to neural network d
 
 This folder contains the implementation of Model-Agnostic Meta-Learning (MAML) using autodiff as well as mathematical proofs behind momentum SGD, RMSProp and Adam. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw2/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw2/Solutions.pdf). 
 
+### HW3 - Dropout and Recurrent Neural Networks (RNNs)
+
+This folder contains mathematical proofs behind dropout and a hand derived RNN implementation for binary addition. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw3/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw3/Solutions.pdf). 
+
 ## Programming
 
 ### PA1 - Learning Distributed Word Representations (Neural Language Model)
