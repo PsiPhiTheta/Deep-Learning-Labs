@@ -15,6 +15,10 @@ This folder contains the implementation of Model-Agnostic Meta-Learning (MAML) u
 
 This folder contains mathematical proofs behind dropout and a hand derived RNN implementation for binary addition. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw3/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw3/Solutions.pdf). 
 
+### HW4 - Dropout and Recurrent Neural Networks (RNNs)
+
+This folder contains mathematical proofs behind LSTM backpropagation through time (BPTT), multidimensional RNNs and reversible architectures. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw4/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/math/hw4/Solutions.pdf). 
+
 ## Programming
 
 ### PA1 - Learning Distributed Word Representations (Neural Language Model)
