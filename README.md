@@ -31,3 +31,6 @@ This folder contains the implementation of a Convolutional Neural Network (CNN) 
 
 ### PA3 - Attention-Based Neural Machine Translation
 This folder contains the implementation of an Attention-Based Neural Machine Translation to translate words from Enlgish to Pig-Latin. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa3/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa3/Solutions.pdf).
+
+### PA4 - Deep Convolutional GAN (DCGAN) and CycleGAN for emoji generative models
+This folder contains the implementation of a Deep Convolutional [Generative Adversarial Network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (DCGAN) and a CycleGAN for emoji generation. Read the instructions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa4/Instructions.pdf) and the solutions [here](https://github.com/PsiPhiTheta/Deep-Learning-Labs/blob/master/src/pa4/Solutions.pdf).
